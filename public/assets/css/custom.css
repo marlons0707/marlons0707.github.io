@@ -38,4 +38,7 @@ p {
   padding-right: 3px;
 }
 
-/* Floating btn */
+/* Animate */
+.animate_icon {
+  -webkit-animation-iteration-count: infinite;
+}
